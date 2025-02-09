@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84dec83d-f114-4aa5-8476-0dc73d0e85bb" name="Changes" comment="" />
+    <list default="true" id="84dec83d-f114-4aa5-8476-0dc73d0e85bb" name="Changes" comment="Java CLI based Ticket Booking application" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +60,7 @@
     "Gradle.IRCTC:app [:app:org.example.App.main()].executor": "Run",
     "Gradle.IRCTC:app [:app:ticket.booking.App.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/M S I/Desktop/IRCTC",
     "project.structure.last.edited": "Modules",
@@ -89,6 +89,15 @@
       <option name="presentableId" value="Default" />
       <updated>1738677659770</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java CLI based Ticket Booking application">
+      <option name="closed" value="true" />
+      <created>1739101548068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739101548068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java CLI based Ticket Booking application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java CLI based Ticket Booking application" />
   </component>
 </project>
